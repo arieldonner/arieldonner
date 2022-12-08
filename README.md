@@ -2,11 +2,13 @@
 
 ## :speech_balloon: About Me
 - 👋 Hi, I’m Ari, a software developer with a :star2: passion for web development.
-- :apple: I have a background as a :triangular_ruler: math teacher where I also taught STEM which was my introduction into the beautiful :earth_americas: world of programming.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- :apple: I have a background as a :triangular_ruler: math teacher where I also taught STEM which was my first introduction into the beautiful :earth_americas: world of programming.
+- 🌱 I am a life-long learner who strives to continuously advance my programming skills. I am looking for new challenges to take on so that I can make great strides in my journey as a developer :sunrise_over_mountains:. 
+- :sparkles: Fun fact: :snowflake: I am on a Synchronized Figure Skating team.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arieldonner&hide=stars,issues,contribs&show_icons=true&theme=radical)](https://github.com/arieldonner/github-readme-stats)
+
+
 
 ## :computer: Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
