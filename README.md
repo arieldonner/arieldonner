@@ -36,7 +36,7 @@
 
 ## :page_with_curl: Links
 - [LinkedIn](https://www.linkedin.com/in/arieldonner/)
-- [Resume](https://www.linkedin.com/in/arieldonner/overlay/1710567988547/single-media-viewer/?profileId=ACoAACyCcYMByqhIc5s1QDjk2-_zqDZ_orA1qXY)
+- [Resume]([https://www.linkedin.com/in/arieldonner/overlay/1710567988547/single-media-viewer/?profileId=ACoAACyCcYMByqhIc5s1QDjk2-_zqDZ_orA1qXY](https://www.linkedin.com/in/arieldonner/overlay/1728011389347/single-media-viewer/?profileId=ACoAACyCcYMByqhIc5s1QDjk2-_zqDZ_orA1qXY))
 
 <!---
 arieldonner/arieldonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
